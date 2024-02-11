@@ -2,7 +2,7 @@ let arr = [
     {
         "name": "Petro",
         "age": 19,
-        "title": "description"
+        "title": "Маликов"
     },
     {
         "name": "Sergiy",
