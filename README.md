@@ -6,3 +6,4 @@
 * Сокульський Олег Ігорович, група ІПЗ-22-3
 
 * ipz223_soi@student.ztu.edu.ua
+* ipz223_soi@student.ztu.edu.ua
